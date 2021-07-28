@@ -1,6 +1,6 @@
 # React Color Organizer App
 
-Interactive React application using modern React feature as useState Hook.
+Interactive React application using modern React features as: useState, UseRef and UseContext Hooks.
 
 
 
